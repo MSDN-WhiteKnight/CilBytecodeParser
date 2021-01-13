@@ -18,7 +18,7 @@ jobs:
     - name: Build tests with dotnet
       run: dotnet build tests/CilTools.BytecodeAnalysis.Tests.NetCore/CilTools.BytecodeAnalysis.Tests.NetCore.csproj
     - name: Test
-      run: dotnet test tests/CilTools.BytecodeAnalysis.Tests.NetCore/CilTools.BytecodeAnalysis.Tests.NetCore.csproj
+      run: dotnet test tests/CilTools.BytecodeAnalysis.Tests.NetCore/CilTools.BytecodeAnalysis.Tests.NetCore.csproj -f netcoreapp3.1
     - name: Archive build results
       uses: actions/upload-artifact@v1
       with:
