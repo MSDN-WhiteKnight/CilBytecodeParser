@@ -274,6 +274,18 @@ references:
   commentId: Overload:CilTools.BytecodeAnalysis.CilGraph.EmitTo
   fullName: CilTools.BytecodeAnalysis.CilGraph.EmitTo
   nameWithType: CilGraph.EmitTo
+- uid: CilTools.BytecodeAnalysis.CilGraph.GetHandlerNodes(CilTools.Reflection.ExceptionBlock)
+  name: GetHandlerNodes(ExceptionBlock)
+  href: api/CilTools.BytecodeAnalysis.CilGraph.html#CilTools_BytecodeAnalysis_CilGraph_GetHandlerNodes_CilTools_Reflection_ExceptionBlock_
+  commentId: M:CilTools.BytecodeAnalysis.CilGraph.GetHandlerNodes(CilTools.Reflection.ExceptionBlock)
+  fullName: CilTools.BytecodeAnalysis.CilGraph.GetHandlerNodes(CilTools.Reflection.ExceptionBlock)
+  nameWithType: CilGraph.GetHandlerNodes(ExceptionBlock)
+- uid: CilTools.BytecodeAnalysis.CilGraph.GetHandlerNodes*
+  name: GetHandlerNodes
+  href: api/CilTools.BytecodeAnalysis.CilGraph.html#CilTools_BytecodeAnalysis_CilGraph_GetHandlerNodes_
+  commentId: Overload:CilTools.BytecodeAnalysis.CilGraph.GetHandlerNodes
+  fullName: CilTools.BytecodeAnalysis.CilGraph.GetHandlerNodes
+  nameWithType: CilGraph.GetHandlerNodes
 - uid: CilTools.BytecodeAnalysis.CilGraph.GetInstructions
   name: GetInstructions()
   href: api/CilTools.BytecodeAnalysis.CilGraph.html#CilTools_BytecodeAnalysis_CilGraph_GetInstructions
@@ -448,6 +460,18 @@ references:
   commentId: Overload:CilTools.BytecodeAnalysis.CilGraphNode.BranchTarget
   fullName: CilTools.BytecodeAnalysis.CilGraphNode.BranchTarget
   nameWithType: CilGraphNode.BranchTarget
+- uid: CilTools.BytecodeAnalysis.CilGraphNode.GetExceptionBlocks
+  name: GetExceptionBlocks()
+  href: api/CilTools.BytecodeAnalysis.CilGraphNode.html#CilTools_BytecodeAnalysis_CilGraphNode_GetExceptionBlocks
+  commentId: M:CilTools.BytecodeAnalysis.CilGraphNode.GetExceptionBlocks
+  fullName: CilTools.BytecodeAnalysis.CilGraphNode.GetExceptionBlocks()
+  nameWithType: CilGraphNode.GetExceptionBlocks()
+- uid: CilTools.BytecodeAnalysis.CilGraphNode.GetExceptionBlocks*
+  name: GetExceptionBlocks
+  href: api/CilTools.BytecodeAnalysis.CilGraphNode.html#CilTools_BytecodeAnalysis_CilGraphNode_GetExceptionBlocks_
+  commentId: Overload:CilTools.BytecodeAnalysis.CilGraphNode.GetExceptionBlocks
+  fullName: CilTools.BytecodeAnalysis.CilGraphNode.GetExceptionBlocks
+  nameWithType: CilGraphNode.GetExceptionBlocks
 - uid: CilTools.BytecodeAnalysis.CilGraphNode.GetSwitchTargets
   name: GetSwitchTargets()
   href: api/CilTools.BytecodeAnalysis.CilGraphNode.html#CilTools_BytecodeAnalysis_CilGraphNode_GetSwitchTargets
@@ -2251,6 +2275,18 @@ references:
   commentId: Overload:CilTools.BytecodeAnalysis.TypeSpec.IsArrayImpl
   fullName: CilTools.BytecodeAnalysis.TypeSpec.IsArrayImpl
   nameWithType: TypeSpec.IsArrayImpl
+- uid: CilTools.BytecodeAnalysis.TypeSpec.IsAssignableFrom(System.Type)
+  name: IsAssignableFrom(Type)
+  href: api/CilTools.BytecodeAnalysis.TypeSpec.html#CilTools_BytecodeAnalysis_TypeSpec_IsAssignableFrom_System_Type_
+  commentId: M:CilTools.BytecodeAnalysis.TypeSpec.IsAssignableFrom(System.Type)
+  fullName: CilTools.BytecodeAnalysis.TypeSpec.IsAssignableFrom(System.Type)
+  nameWithType: TypeSpec.IsAssignableFrom(Type)
+- uid: CilTools.BytecodeAnalysis.TypeSpec.IsAssignableFrom*
+  name: IsAssignableFrom
+  href: api/CilTools.BytecodeAnalysis.TypeSpec.html#CilTools_BytecodeAnalysis_TypeSpec_IsAssignableFrom_
+  commentId: Overload:CilTools.BytecodeAnalysis.TypeSpec.IsAssignableFrom
+  fullName: CilTools.BytecodeAnalysis.TypeSpec.IsAssignableFrom
+  nameWithType: TypeSpec.IsAssignableFrom
 - uid: CilTools.BytecodeAnalysis.TypeSpec.IsByRefImpl
   name: IsByRefImpl()
   href: api/CilTools.BytecodeAnalysis.TypeSpec.html#CilTools_BytecodeAnalysis_TypeSpec_IsByRefImpl
@@ -2371,6 +2407,18 @@ references:
   commentId: Overload:CilTools.BytecodeAnalysis.TypeSpec.IsPrimitiveImpl
   fullName: CilTools.BytecodeAnalysis.TypeSpec.IsPrimitiveImpl
   nameWithType: TypeSpec.IsPrimitiveImpl
+- uid: CilTools.BytecodeAnalysis.TypeSpec.IsValueTypeImpl
+  name: IsValueTypeImpl()
+  href: api/CilTools.BytecodeAnalysis.TypeSpec.html#CilTools_BytecodeAnalysis_TypeSpec_IsValueTypeImpl
+  commentId: M:CilTools.BytecodeAnalysis.TypeSpec.IsValueTypeImpl
+  fullName: CilTools.BytecodeAnalysis.TypeSpec.IsValueTypeImpl()
+  nameWithType: TypeSpec.IsValueTypeImpl()
+- uid: CilTools.BytecodeAnalysis.TypeSpec.IsValueTypeImpl*
+  name: IsValueTypeImpl
+  href: api/CilTools.BytecodeAnalysis.TypeSpec.html#CilTools_BytecodeAnalysis_TypeSpec_IsValueTypeImpl_
+  commentId: Overload:CilTools.BytecodeAnalysis.TypeSpec.IsValueTypeImpl
+  fullName: CilTools.BytecodeAnalysis.TypeSpec.IsValueTypeImpl
+  nameWithType: TypeSpec.IsValueTypeImpl
 - uid: CilTools.BytecodeAnalysis.TypeSpec.MakeArrayType
   name: MakeArrayType()
   href: api/CilTools.BytecodeAnalysis.TypeSpec.html#CilTools_BytecodeAnalysis_TypeSpec_MakeArrayType
@@ -6094,6 +6142,18 @@ references:
   commentId: Overload:CilTools.Syntax.SyntaxNode.GetChildNodes
   fullName: CilTools.Syntax.SyntaxNode.GetChildNodes
   nameWithType: SyntaxNode.GetChildNodes
+- uid: CilTools.Syntax.SyntaxNode.GetTypeDefSyntax(System.Type)
+  name: GetTypeDefSyntax(Type)
+  href: api/CilTools.Syntax.SyntaxNode.html#CilTools_Syntax_SyntaxNode_GetTypeDefSyntax_System_Type_
+  commentId: M:CilTools.Syntax.SyntaxNode.GetTypeDefSyntax(System.Type)
+  fullName: CilTools.Syntax.SyntaxNode.GetTypeDefSyntax(System.Type)
+  nameWithType: SyntaxNode.GetTypeDefSyntax(Type)
+- uid: CilTools.Syntax.SyntaxNode.GetTypeDefSyntax*
+  name: GetTypeDefSyntax
+  href: api/CilTools.Syntax.SyntaxNode.html#CilTools_Syntax_SyntaxNode_GetTypeDefSyntax_
+  commentId: Overload:CilTools.Syntax.SyntaxNode.GetTypeDefSyntax
+  fullName: CilTools.Syntax.SyntaxNode.GetTypeDefSyntax
+  nameWithType: SyntaxNode.GetTypeDefSyntax
 - uid: CilTools.Syntax.SyntaxNode.LeadingWhitespace
   name: LeadingWhitespace
   href: api/CilTools.Syntax.SyntaxNode.html#CilTools_Syntax_SyntaxNode_LeadingWhitespace
